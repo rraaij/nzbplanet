@@ -45,6 +45,8 @@ bun install <pkg>
 - [Next.js](http://nextjs.org) 14.x wilth App Router, [Typescript](http://typescriptlang.org) and [Tailwind CSS](http://tailwindcss.com)
 - Bun 
 - component library: [UI.shadcn](http://ui.shadcn.com)
+- [Mock Service Worker](http://mswjs.io)
+
 
 ## Used APIs
 POSTER IMAGE API
